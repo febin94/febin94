@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Febin 👋
 
-<!--
-**febin94/febin94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BCA Graduate | Data Science Enthusiast | Logistics & Business Analytics Professional**
 
-Here are some ideas to get you started:
+I’m transitioning from 9+ years in logistics and business development into **Data Science & Analytics**, building portfolio-ready projects and applying my certifications to real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=power-bi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## 📂 Featured Projects
+- **Data Science Portfolio** – Titanic survival prediction, House Prices regression, Iris classification
+- **Business Analytics Dashboards** – Power BI & Tableau storytelling
+- **SQL Portfolio** – Complex queries, joins, window functions
+- **AI/ML Demos** – Generative AI mini-projects (chatbot, summarizer)
+- **Logistics Simulation** – Inventory & warehouse optimization
+- **Kitchen Farming Analytics** – Crop rotation planner with Python/Excel dashboards
+
+---
+
+## 🎓 Certifications & Achievements
+[![IBM Data Science Professional Certificate](https://images.credly.com/size/200x200/images/0c6c2a5d-9c7e-4b5a-9f3a-3f6e8a7f9a3f/IBM-Data-Science.png)](https://www.credly.com/badges/4f8827e9-4ac9-45a6-a1d7-b037d512e2e3/public_url)
+
+- APS Certification (Achievement)
+- NSDC Data Science / ML / Business Analyst (Achievement)
+- IELTS Score: 7 (Achievement)
+
+---
+
+## 📊 GitHub Stats
+![Febin's GitHub stats](https://github-readme-stats.vercel.app/api?username=febin94&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=febin94&layout=compact&theme=radical)
+
+---
+
+## 🐍 Nerd Flair
+![Contribution Snake](https://github.com/febin94/febin94/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📫 Connect
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
+- [Credly Profile](https://www.credly.com/users/your-profile)  
+- [Portfolio Website](https://yourwebsite.com) *(optional)*  
