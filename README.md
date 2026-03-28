@@ -16,32 +16,19 @@ I’m transitioning from 9+ years in logistics and business development into **D
 ---
 
 ## 📂 Featured Projects
-- **Data Science Portfolio** – Titanic survival prediction, House Prices regression, Iris classification
+- **IBM Capstone Project** – SpaceX landing prediction, ML models, Data Visulalization
 - **Business Analytics Dashboards** – Power BI & Tableau storytelling
 - **SQL Portfolio** – Complex queries, joins, window functions
-- **AI/ML Demos** – Generative AI mini-projects (chatbot, summarizer)
 - **Logistics Simulation** – Inventory & warehouse optimization
-- **Kitchen Farming Analytics** – Crop rotation planner with Python/Excel dashboards
+- **Stock Sense: Predictive Market Analytics** – Python, Plotly Dash app dashboard to predict stock price movements with indicatores and future price prediction.
 
 ---
 
 ## 🎓 Certifications & Achievements
-[![IBM Data Science Professional Certificate](https://images.credly.com/size/200x200/images/0c6c2a5d-9c7e-4b5a-9f3a-3f6e8a7f9a3f/IBM-Data-Science.png)]
 
-- APS Certification (Achievement)
-- NSDC Data Science / ML / Business Analyst (Achievement)
+- IBM Data Science Professional Certificate
+- NSDC Data Science / ML / Business Analyst
 - IELTS Score: 7 (Achievement)
-
----
-
-## 📊 GitHub Stats
-![Febin's GitHub stats](https://github-readme-stats.vercel.app/api?username=febin94&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=febin94&layout=compact&theme=radical)
-
----
-
-## 🐍 Nerd Flair
-![Contribution Snake](https://github.com/febin94/febin94/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
