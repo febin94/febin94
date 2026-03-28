@@ -26,7 +26,7 @@ I’m transitioning from 9+ years in logistics and business development into **D
 ---
 
 ## 🎓 Certifications & Achievements
-[![IBM Data Science Professional Certificate](https://images.credly.com/size/200x200/images/0c6c2a5d-9c7e-4b5a-9f3a-3f6e8a7f9a3f/IBM-Data-Science.png)](https://www.credly.com/badges/4f8827e9-4ac9-45a6-a1d7-b037d512e2e3/public_url)
+[![IBM Data Science Professional Certificate](https://images.credly.com/size/200x200/images/0c6c2a5d-9c7e-4b5a-9f3a-3f6e8a7f9a3f/IBM-Data-Science.png)]
 
 - APS Certification (Achievement)
 - NSDC Data Science / ML / Business Analyst (Achievement)
@@ -46,6 +46,6 @@ I’m transitioning from 9+ years in logistics and business development into **D
 ---
 
 ## 📫 Connect
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
-- [Credly Profile](https://www.credly.com/users/your-profile)  
-- [Portfolio Website](https://yourwebsite.com) *(optional)*  
+- [LinkedIn](https://www.linkedin.com/in/febinthomas94/)  
+- [Credly Profile](https://www.credly.com/users/febinthomas94)  
+
